@@ -38,6 +38,15 @@
 
 > 使用前建议先备份模拟器中的重要数据。不同 MuMu 版本的文件结构可能不同，V4、V5、V6 的优化效果也可能不同。
 
+## 资源包下载
+
+MuTools 的 7-Zip 和 aria2 资源包可以从本仓库的资源包 Release 获取：
+
+- [MuTools 资源包 Release](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/releases/tag/resources-v1.0.0)
+- [资源包说明和校验值](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/blob/main/RESOURCES.md)
+
+视频中的 DataPart 和 RuntimeChecker 没有找到公开、可信的原始下载来源，暂时没有转载。请查看 RESOURCES.md。
+
 ### 方式二：从源码构建
 
 构建环境：

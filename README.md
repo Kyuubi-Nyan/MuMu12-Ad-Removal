@@ -85,6 +85,9 @@ MuToolsCode/src-tauri/target/release/mutools.exe
 - [Bilibili：MuTools 一键管理 MuMu 模拟器](https://www.bilibili.com/video/BV1fuY46oEJE/)
 - [原项目作者的演示视频](https://www.bilibili.com/video/BV1JPtA6LEaA/)
 
+## 可选：桌面去广告脚本
+
+如果暂时没有 `DataPart`，可以使用 [桌面去广告脚本](tools/desktop-ad-block/README.md)。它通过 Windows 防火墙拦截 MuMu 广告 IP，不需要 DataPart，也不修改模拟器文件，并且提供一键撤销。
 ## 常见问题
 
 ### 1. 工具检测不到 MuMu

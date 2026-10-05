@@ -14,7 +14,7 @@
 
 只需要这两个资源包，不需要 `DataPart` 和 `RuntimeChecker`。
 
-## 使用教程（按视频流程）
+## 使用教程
 
 ### 第 1 步：设置数据目录路径
 
@@ -96,11 +96,6 @@ aria2_Win_x86_32bit_1.37.0_1.exe
 [进入 `资源包` 目录](资源包/README.md)
 
 资源包说明、来源和校验值都在该目录的 README 中。
-
-## 视频参考
-
-- [Bilibili：MuTools 一键管理 MuMu 模拟器](https://www.bilibili.com/video/BV1fuY46oEJE/)
-- [原项目作者的演示视频](https://www.bilibili.com/video/BV1JPtA6LEaA/)
 
 ## 从源码构建
 

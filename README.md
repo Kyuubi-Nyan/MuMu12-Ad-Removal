@@ -1,7 +1,5 @@
 # MuMu模拟器12去广告工具（MuTools 教程版）
 
-> 搜索关键词：MuMu 去广告、MuMu12 去广告、MuMu 纯净版、MuMu 模拟器优化、MuMu 禁止更新、MuMu 禁用遥测、MuTools。
-
 本项目是基于 **MuToolsProject** 整理的 GPL-3.0 发布版。按下面的视频流程操作，安装并使用两个资源包即可完成 MuMu 模拟器去广告。
 
 > 本项目不是 MuMu 官方项目，与 MuMu 官方没有任何隶属或合作关系。

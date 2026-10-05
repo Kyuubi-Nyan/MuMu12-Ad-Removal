@@ -11,9 +11,6 @@
 | `MuTools.exe` | [Release 便携版](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/releases/download/v1.1.0/MuTools.exe) | MuTools 主程序 |
 | `7zip_Win_x86_32bit_26.02.exe` | [资源包目录](资源包/7zip_Win_x86_32bit_26.02.exe) | 解压 7z 资源 |
 | `aria2_Win_x86_32bit_1.37.0_1.exe` | [资源包目录](资源包/aria2_Win_x86_32bit_1.37.0_1.exe) | 下载加速 |
-
-只需要这两个资源包，不需要 `DataPart` 和 `RuntimeChecker`。
-
 ## 使用教程
 
 ### 第 1 步：设置数据目录路径

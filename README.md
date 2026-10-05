@@ -9,8 +9,9 @@
 | 文件 | 下载位置 | 用途 |
 | --- | --- | --- |
 | `MuTools.exe` | [Release 便携版](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/releases/download/v1.1.0/MuTools.exe) | MuTools 主程序 |
-| `7zip_Win_x86_32bit_26.02.exe` | [资源包目录](资源包/7zip_Win_x86_32bit_26.02.exe) | 解压 7z 资源 |
-| `aria2_Win_x86_32bit_1.37.0_1.exe` | [资源包目录](资源包/aria2_Win_x86_32bit_1.37.0_1.exe) | 下载加速 |
+| `7zip_Win_x86_32bit_26.02.exe` | [直接下载 7zip](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/releases/download/resources-v1.0.0/7zip_Win_x86_32bit_26.02.exe) | 解压 7z 资源 |
+| `aria2_Win_x86_32bit_1.37.0_1.exe` | [直接下载 aria2](https://github.com/Kyuubi-Nyan/MuMu12-Ad-Removal/releases/download/resources-v1.0.0/aria2_Win_x86_32bit_1.37.0_1.exe) | 下载加速 |
+> GitHub 左侧或右侧的 Releases 区域只显示发布名称，不会直接显示下载按钮。点击 Release 标题进入发布页，再在 Assets 中点击文件下载；也可以直接点击上表的下载链接。
 ## 使用教程
 
 ### 第 1 步：设置数据目录路径
